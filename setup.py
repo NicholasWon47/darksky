@@ -14,7 +14,7 @@ setup(
     packages=find_packages(),
 
     install_requires=[
-        'requests==2.21.0',
+        'requests==2.31.0',
         'pytz==2019.1',
         'aiohttp==3.5.4'
     ],
